@@ -194,3 +194,14 @@ a {
   right: 0;
   left: 0;
 }
+
+.current-date {
+  border: 1px solid #ccc;
+  padding: 10px;
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+  position: absolute;
+  top: 50px;
+  right: 20px;
+}
