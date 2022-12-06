@@ -5,7 +5,7 @@
   <img src="assets/readme/murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Awesome Book< using es6</b></h3>
+  <h3><b>Awesome Book using es6</b></h3>
 
 </div>
 
